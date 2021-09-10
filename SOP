@@ -1,0 +1,11 @@
+DB is hosted on compass
+
+During development everyone will run local server and react but use global database
+
+4 Part series explaining the basics of the MERN stack
+
+https://www.youtube.com/watch?v=qvBZevK1HPo&ab_channel=CodingTheSmartWay.com
+
+When implementing a new feature create a branch on git, when it works publish to main on git
+
+When main is updated everyone will have to pull from git
